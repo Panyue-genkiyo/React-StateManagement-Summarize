@@ -1,0 +1,14 @@
+.container{
+    width: 800px;
+    height:800px;
+}
+
+.not_darken{
+    background: #fff;
+    color:#000
+}
+
+.darken{
+    background: #000;
+    color:#fff;
+}
